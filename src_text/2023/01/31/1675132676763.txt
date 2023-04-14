@@ -1,0 +1,1 @@
+Google Driveのフォルダsync、数が増えてきて遅くなってきたので、syncthingに乗り換えようかなぁ？
