@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+このサイトは[てきすとTL - RandomThoughts](https://karino2.github.io/RandomThoughts/%E3%81%A6%E3%81%8D%E3%81%99%E3%81%A8TL)の公開サイトです。
+主に[自分のブログ](https://karino2.github.io/)のサイドバーから辿ってくる事を想定したpermlinkとして使うための各ひとこと置き場です。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+なるべくURLは変えないつもりでいます。
