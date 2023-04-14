@@ -83,7 +83,7 @@ const para2html = (json) => {
   let dtstr = json.date.getTime().toString()
 
   return `---
-title: ひとこと
+title: ひとことのpermlink
 layout: page
 ---
 <div class="box" dt="${dtstr}">
