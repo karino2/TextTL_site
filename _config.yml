@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   てきすとTLの公開用サイト。パーマネントリンクを貼るのに使ってください。
 baseurl: "/TextTL_site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: karino2012
+github_username:  karino2
 
 # Build settings
 markdown: kramdown
