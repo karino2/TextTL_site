@@ -1,0 +1,1 @@
+WhiteBoardCastのAndroid Studioバージョン上げ。実行出来る所までは来た。ついでにスライド周りのわかりにくい所を直すかなぁ。
