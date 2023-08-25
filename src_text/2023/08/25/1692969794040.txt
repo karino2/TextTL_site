@@ -1,0 +1,1 @@
+Photo Pickerと戯れる。FireだとACITON_GET_CONTENTになるのか。まぁこれでいいか。
