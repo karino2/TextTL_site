@@ -1,0 +1,1 @@
+eventcountのfolly実装を見たらfutexが使われていて、futexって何？と調べてわからん、ってなってる。（ゆとり）
