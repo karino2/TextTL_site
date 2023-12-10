@@ -1,0 +1,1 @@
+misreading chatを聞きながら大掃除。AWS Lambdaのブロックのキャッシュ的なのまで聞いた。
