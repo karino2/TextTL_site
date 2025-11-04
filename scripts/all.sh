@@ -1,6 +1,6 @@
 #!/bin/sh
 
-./copy.sh
+./copy.sh $1
 rm -r ../md
 pushd conv2md; npm run conv; popd
 
