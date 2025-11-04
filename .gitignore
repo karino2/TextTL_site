@@ -2,3 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+scripts/conv2md/node_modules
