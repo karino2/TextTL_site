@@ -1,1 +1,0 @@
-C++ Concurrency in Action、メモリオーダーの手前まで読む。

@@ -1,1 +1,0 @@
-自作Futureライブラリはfuture<future<Unit>>をunwrapしてないので手動でunwarpしなくてはいけないがめちゃダルい。いい加減直すかなぁ。
