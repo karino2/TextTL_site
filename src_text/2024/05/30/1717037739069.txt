@@ -1,0 +1,1 @@
+Swiftのactorはクラスと並列の概念なのにGlobalActorがクラスのattributeになってしまうのはなんかいまいちだな。クラスのattributeにも使えるというのはいいとして、actorコンテキストに入るactorが定義できる方が自然な気がするが。

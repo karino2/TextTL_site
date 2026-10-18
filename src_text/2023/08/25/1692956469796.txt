@@ -1,0 +1,1 @@
+Storage Access Frameworkとの戦い。スライドを選ぶ部分は根本的に変えたいなぁ。順番を指定させるActivityを作るか。

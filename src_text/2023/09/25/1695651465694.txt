@@ -1,0 +1,1 @@
+複数interfaceを実装する時に同じメソッドがある場合、片方がabstractでもoverride必須になったのか。知らなんだ＞Kotlin
